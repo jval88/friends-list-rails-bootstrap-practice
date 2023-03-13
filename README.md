@@ -1,9 +1,6 @@
-# README
+# Friends List APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+Test App for Adding Friends to Friends List using Rails and Bootstrap
 
 * Ruby version
 
